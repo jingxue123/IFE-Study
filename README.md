@@ -1,3 +1,2 @@
 # IFE-Study
-#Stay hungry Stay foolish
-#杭电小分队
+#第一阶段任务
